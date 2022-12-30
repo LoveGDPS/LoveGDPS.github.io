@@ -1,0 +1,42 @@
+.cat{
+  color: white;
+  font-family: sans-serif;
+}
+.button {
+  background-image: url("button.png"); /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  background-size: 100%;
+  font-family: sans-serif;
+  padding-bottom: 3px;
+  padding-top: 3px;
+}
+.button1 {
+  background-image: url("button.png"); /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  background-size: 100%;
+  font-family: sans-serif;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.text {
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  background-size: 100%;
+  font-family: sans-serif;
+}
+body{
+  background-color: #01030f
+}
