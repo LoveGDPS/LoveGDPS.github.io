@@ -23,6 +23,17 @@
   font-size: 16px;
   background-size: 100%;
   font-family: sans-serif;
+  padding: 3px 5px;
+}
+.button2 {
+  background-image: url("button.png"); /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  background-size: 100%;
+  font-family: sans-serif;
   padding-bottom: 3px;
   padding-top: 3px;
   padding-left: 12px;
